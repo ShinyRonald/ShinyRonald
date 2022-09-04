@@ -1,7 +1,7 @@
 ## 😘 Sobre mim:
 
 -   Nome:  `Ronald Vieira de jesus`
--   Idade:  `20`
+-   Idade:  `21`
 -   Email para contato:  [shinyronald10@gmail.com](mailto:shinyronald10@gmail.com)
 -   Atualmente focado em me tornar um  `Desenvolvedor Web`
 
