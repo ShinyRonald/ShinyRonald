@@ -13,7 +13,7 @@
 - C/C++
 - Microsoft Office
 - Inglês intermediário 
-- Pytho
+- Python
 - SpringBoot
 - API Rest
 - MongoDB
